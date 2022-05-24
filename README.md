@@ -1,6 +1,6 @@
 ## Olá! prazer, eu sou Denilson Silva 🖐🏽
 
-- 👨🏽‍🎓 Estou cursando o 5° periodo de Análide e desenvolvimento de sistemas
+- 👨🏽‍🎓 Estou cursando o 5° periodo de Análise e desenvolvimento de sistemas
 - 💻 Front end Developer - Web/Mobile
 - 🔍 Foco em React js, React Native, JavaScript, HTML e CSS
 - 📚 Estudando TypeScript e Banco de dados
