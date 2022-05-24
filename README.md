@@ -1,4 +1,4 @@
-## Olá! prazer, eu sou Denilson Silva
+## Olá! prazer, eu sou Denilson Silva 🖐🏽
 
 - 👨🏽‍🎓 Estou cursando o 5° periodo de Análide e desenvolvimento de sistemas
 - 💻 Front end Developer - Web/Mobile
