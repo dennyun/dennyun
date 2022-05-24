@@ -17,7 +17,7 @@
   <img align="center" alt="Denny-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Denny-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Denny-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="right" alt="Denny-pic" height="150" style="border-radius:50px;" src="![avatar](https://user-images.githubusercontent.com/103978831/169950071-79254473-5aa4-458e-a856-1a6569d18a1e.png)">
+   <img align="right" alt="Denny-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/103978831/169953335-edfaa762-cabd-4372-972a-e22bfca8b589.png">
 </div>
   
   ##
